@@ -1,5 +1,19 @@
+source-docs/outputs/
+# Python
 __pycache__/
-.env
 *.pyc
-.idea/
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+.env/
+venv/
+
+# Editors/IDEs
 .vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
