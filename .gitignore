@@ -1,4 +1,3 @@
-source-docs/outputs/
 # Python
 __pycache__/
 *.pyc
@@ -17,3 +16,8 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Project Specific
+source-docs/*
+!source-docs/outputs/
+!source-docs/outputs/**
