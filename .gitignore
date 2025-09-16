@@ -19,5 +19,6 @@ Thumbs.db
 
 # Project Specific
 source-docs/*
+source-docs/20*
 !source-docs/outputs/
 !source-docs/outputs/**

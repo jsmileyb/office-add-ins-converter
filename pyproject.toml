@@ -14,4 +14,4 @@ requires-python = ">=3.7"
 dependencies = []
 
 [project.scripts]
-consolidate-markdown = "scripts.consolidate_markdown:main"
+consolidate-markdown = "consolidate_markdown.main:main"

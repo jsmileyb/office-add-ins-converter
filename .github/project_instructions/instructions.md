@@ -48,6 +48,27 @@ Write idiomatic, well-documented Python code.
 - Follow standard Python project organization conventions for clarity and maintainability.
 - List any third-party dependencies in `requirements.txt`.
 
+## Output Directory Structure
+
+When running the consolidation script, the finalized consolidated markdown files will be saved in the specified output directory.  
+Each set of output files is stored in a uniquely named subfolder within the output directory, following the naming convention:
+
+yyyyMMdd_mmss
+
+```
+
+- `yyyy` = four-digit year
+- `MM`   = two-digit month
+- `dd`   = two-digit day
+- `mm`   = two-digit hour and
+- `ss`   = two-digit minute and second based on the time of execution
+```
+
+**For example:**  
+If the script is run on March 15, 2024 at 14:30:45, the output will be saved to: `output/20240315_143045/`
+
+All consolidated markdown files generated during that run will be placed inside this timestamped folder, keeping outputs organized and preventing accidental overwrites.
+
 ## Deliverables
 
 - Python script(s) as described above

@@ -1,6 +1,5 @@
 import argparse
-from utils.markdown_utils import consolidate_and_clean_markdown
-
+from .utils.markdown_utils import consolidate_and_clean_markdown
 
 def main():
     parser = argparse.ArgumentParser(description="Consolidate and clean markdown files.")
@@ -9,7 +8,6 @@ def main():
     args = parser.parse_args()
 
     consolidate_and_clean_markdown(args.parent_dir, args.output_dir)
-
 
 if __name__ == "__main__":
     main()

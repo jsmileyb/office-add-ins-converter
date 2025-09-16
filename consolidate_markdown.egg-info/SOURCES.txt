@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+consolidate_markdown/__init__.py
+consolidate_markdown/main.py
+consolidate_markdown.egg-info/PKG-INFO
+consolidate_markdown.egg-info/SOURCES.txt
+consolidate_markdown.egg-info/dependency_links.txt
+consolidate_markdown.egg-info/entry_points.txt
+consolidate_markdown.egg-info/top_level.txt
+consolidate_markdown/utils/__init__.py
+consolidate_markdown/utils/markdown_utils.py
+tests/test_consolidate_markdown.py
