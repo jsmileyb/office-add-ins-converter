@@ -1,0 +1,512 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Support older Microsoft webviews and\nOffice versions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.793583869934075,
+          40.778723794966936
+        ],
+        [
+          516.6820678710938,
+          40.778723794966936
+        ],
+        [
+          516.6820678710938,
+          104.00248584151268
+        ],
+        [
+          62.793583869934075,
+          104.00248584151268
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.84386909008026,
+          260.1198349893093
+        ],
+        [
+          148.72125244140625,
+          260.1198349893093
+        ],
+        [
+          148.72125244140625,
+          275.84997126460075
+        ],
+        [
+          74.67980659008026,
+          275.84997126460075
+        ]
+      ]
+    },
+    {
+      "title": "Determine the webview the add-in is running\nin at runtime",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.98928761482238,
+          112.91320069134235
+        ],
+        [
+          512.7383422851562,
+          111.26671631634235
+        ],
+        [
+          512.7383422851562,
+          164.1903076171875
+        ],
+        [
+          62.98928761482238,
+          165.41059224307537
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          75.58975440263748,
+          42.897992078214884
+        ],
+        [
+          149.26694786548615,
+          42.897992078214884
+        ],
+        [
+          149.26694786548615,
+          58.36535373330116
+        ],
+        [
+          75.58975440263748,
+          58.36535373330116
+        ]
+      ]
+    },
+    {
+      "title": "Review webview and Office version support\ninformation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.31424677371978,
+          665.5596029162407
+        ],
+        [
+          497.33213281631464,
+          663.9131185412407
+        ],
+        [
+          497.33213281631464,
+          717.4826493859291
+        ],
+        [
+          63.31424677371978,
+          719.1291337609291
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          88.75,
+          123.68996550142765
+        ],
+        [
+          160.7212371826172,
+          123.68996550142765
+        ],
+        [
+          160.7212371826172,
+          139.81926168501377
+        ],
+        [
+          88.41350072622299,
+          139.81926168501377
+        ]
+      ]
+    },
+    {
+      "title": "Test an add-in on Trident (Internet Explorer)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          76.0,
+          306.8972660601139
+        ],
+        [
+          508.5868835449219,
+          306.8972660601139
+        ],
+        [
+          508.5868835449219,
+          332.89747926592827
+        ],
+        [
+          76.0,
+          332.89747926592827
+        ]
+      ]
+    },
+    {
+      "title": "Support for recent versions of JavaScript",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          64.0,
+          401.9367427825928
+        ],
+        [
+          465.3976440429687,
+          401.9367427825928
+        ],
+        [
+          464.3333740234375,
+          428.28717559576035
+        ],
+        [
+          63.08919990062713,
+          428.28717559576035
+        ]
+      ]
+    },
+    {
+      "title": "Use a transpiler",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.1672513782978,
+          670.1213012337685
+        ],
+        [
+          189.9782291650772,
+          670.1213012337685
+        ],
+        [
+          189.9782291650772,
+          691.5665994286537
+        ],
+        [
+          63.1672513782978,
+          691.5665994286537
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          74.77371525764465,
+          201.28634516894817
+        ],
+        [
+          121.18741607666016,
+          201.28634516894817
+        ],
+        [
+          121.18741607666016,
+          217.21501877903938
+        ],
+        [
+          74.77371525764465,
+          217.21501877903938
+        ]
+      ]
+    },
+    {
+      "title": "Use a polyfill",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.330543577671044,
+          363.238581597805
+        ],
+        [
+          168.71439027786255,
+          363.238581597805
+        ],
+        [
+          168.71439027786255,
+          385.0232461094856
+        ],
+        [
+          63.330543577671044,
+          385.0232461094856
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          64.0,
+          125.09839349985123
+        ],
+        [
+          146.82690334320068,
+          125.09839349985123
+        ],
+        [
+          145.66284084320068,
+          151.17960441112518
+        ],
+        [
+          63.30303439497947,
+          151.17960441112518
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Code",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          22
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_114-120_older_support"
+}

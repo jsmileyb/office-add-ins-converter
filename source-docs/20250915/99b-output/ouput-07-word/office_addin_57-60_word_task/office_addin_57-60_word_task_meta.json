@@ -1,0 +1,346 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Build your first Word task pane add-in",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.13648283481597,
+          39.92612810432911
+        ],
+        [
+          510.0835876464844,
+          39.92612810432911
+        ],
+        [
+          510.0835876464844,
+          72.72609114646912
+        ],
+        [
+          63.13648283481597,
+          72.72609114646912
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.0,
+          281.3667591512203
+        ],
+        [
+          205.19017028808594,
+          281.3667591512203
+        ],
+        [
+          205.19017028808594,
+          306.9713297188282
+        ],
+        [
+          76.0,
+          306.9713297188282
+        ]
+      ]
+    },
+    {
+      "title": "Create the add-in project",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.62766778469086,
+          500.3734250664711
+        ],
+        [
+          324.8661561012268,
+          500.3734250664711
+        ],
+        [
+          324.8392639160156,
+          527.8310442566872
+        ],
+        [
+          74.46360528469086,
+          527.8310442566872
+        ]
+      ]
+    },
+    {
+      "title": "Create an add-in in Visual Studio Code",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.70031821727753,
+          633.6722332835197
+        ],
+        [
+          296.45424592494965,
+          632.0257489085197
+        ],
+        [
+          296.45424592494965,
+          647.7309628129005
+        ],
+        [
+          85.70031821727753,
+          649.3774471879005
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          87.4211186170578,
+          466.5270364880562
+        ],
+        [
+          133.18740844726562,
+          466.5270364880562
+        ],
+        [
+          133.18740844726562,
+          482.2587806582451
+        ],
+        [
+          87.4211186170578,
+          482.2587806582451
+        ]
+      ]
+    },
+    {
+      "title": "Explore the project",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          76.0,
+          591.9402759075165
+        ],
+        [
+          263.6890730857849,
+          591.9402759075165
+        ],
+        [
+          263.6890730857849,
+          618.5130504369736
+        ],
+        [
+          76.0,
+          618.5130504369736
+        ]
+      ]
+    },
+    {
+      "title": "Try it out",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.13801765441895,
+          149.1322014927864
+        ],
+        [
+          167.36512756347656,
+          149.1322014927864
+        ],
+        [
+          167.36512756347656,
+          177.13401773571968
+        ],
+        [
+          75.13801765441895,
+          177.13401773571968
+        ]
+      ]
+    },
+    {
+      "title": "Stop testing your Office Add-in",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.0,
+          455.5437074303627
+        ],
+        [
+          387.00201416015625,
+          455.5437074303627
+        ],
+        [
+          387.00201416015625,
+          483.5537390112877
+        ],
+        [
+          74.86368072032928,
+          483.5537390112877
+        ]
+      ]
+    },
+    {
+      "title": "Troubleshooting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.0,
+          684.6989788413048
+        ],
+        [
+          237.72012042999265,
+          684.6989788413048
+        ],
+        [
+          237.72012042999265,
+          713.8180559277534
+        ],
+        [
+          76.0,
+          713.8180559277534
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_57-60_word_task"
+}

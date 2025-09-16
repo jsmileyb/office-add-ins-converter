@@ -1,0 +1,609 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Uninstall add-ins under development",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.821770429611206,
+          22.553580578416586
+        ],
+        [
+          478.12298583984375,
+          22.553580578416586
+        ],
+        [
+          478.12298583984375,
+          53.671983897686005
+        ],
+        [
+          44.821770429611206,
+          53.671983897686005
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.56975007057189,
+          201.07481905817986
+        ],
+        [
+          130.7212371826172,
+          201.07481905817986
+        ],
+        [
+          130.7212371826172,
+          217.4599212706089
+        ],
+        [
+          56.56975007057189,
+          217.4599212706089
+        ]
+      ]
+    },
+    {
+      "title": "Prevent the problems",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.0,
+          650.6596931219101
+        ],
+        [
+          257.2572441101074,
+          650.6596931219101
+        ],
+        [
+          256.9622497558594,
+          676.7152279615402
+        ],
+        [
+          44.99632829427719,
+          676.7152279615402
+        ]
+      ]
+    },
+    {
+      "title": "Use your tool's uninstall facility",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.1983642578125,
+          186.5195514857769
+        ],
+        [
+          300.56292724609375,
+          186.5195514857769
+        ],
+        [
+          300.56292724609375,
+          207.92756661772728
+        ],
+        [
+          45.1983642578125,
+          207.92756661772728
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.52461844682693,
+          356.1398763656616
+        ],
+        [
+          103.18741607666016,
+          356.1398763656616
+        ],
+        [
+          103.18741607666016,
+          371.5415498614311
+        ],
+        [
+          57.52461844682693,
+          371.5415498614311
+        ]
+      ]
+    },
+    {
+      "title": "Remove a ghost add-in",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.6312997341156,
+          92.13950009644032
+        ],
+        [
+          278.1540832519531,
+          92.13950009644032
+        ],
+        [
+          278.1540832519531,
+          118.65519435703754
+        ],
+        [
+          45.6312997341156,
+          118.65519435703754
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.16853758692741,
+          214.1125855743885
+        ],
+        [
+          93.43069458007812,
+          214.1125855743885
+        ],
+        [
+          93.43069458007812,
+          231.8734931051731
+        ],
+        [
+          58.16853758692741,
+          231.8734931051731
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.75,
+          657.0635365247726
+        ],
+        [
+          103.18741607666016,
+          655.4170521497726
+        ],
+        [
+          103.18741607666016,
+          670.4925742149353
+        ],
+        [
+          58.6117396056652,
+          672.1390585899353
+        ]
+      ]
+    },
+    {
+      "title": "Remove the Exchange registration of a ghost Outlook add-in",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          44.86985266208649,
+          72.32740858197212
+        ],
+        [
+          540.0955810546875,
+          70.68092420697212
+        ],
+        [
+          540.0955810546875,
+          92.33356547355652
+        ],
+        [
+          44.86985266208649,
+          93.98004984855652
+        ]
+      ]
+    },
+    {
+      "title": "Remove the add-in artifacts",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.0,
+          135.13124312460423
+        ],
+        [
+          272.8561706542969,
+          133.48475874960423
+        ],
+        [
+          272.8561706542969,
+          155.2225341796875
+        ],
+        [
+          44.954125344753265,
+          156.61520616710186
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.01089376211166,
+          185.4671968370676
+        ],
+        [
+          130.8508933186531,
+          183.8207124620676
+        ],
+        [
+          130.7212371826172,
+          199.74673555791378
+        ],
+        [
+          56.84683126211166,
+          201.39321993291378
+        ]
+      ]
+    },
+    {
+      "title": "Remove the local registration",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.0,
+          358.99991941452026
+        ],
+        [
+          286.3957214355469,
+          357.35343503952026
+        ],
+        [
+          286.3957214355469,
+          379.06117182970047
+        ],
+        [
+          45.94103670120239,
+          380.70765620470047
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.75,
+          408.7291942834854
+        ],
+        [
+          131.6587085723877,
+          407.0827099084854
+        ],
+        [
+          130.7212371826172,
+          423.31425815820694
+        ],
+        [
+          58.623000830411904,
+          424.96074253320694
+        ]
+      ]
+    },
+    {
+      "title": "Test for removal of Outlook add-ins",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.305257081985474,
+          234.99499493837357
+        ],
+        [
+          335.9134826660156,
+          234.99499493837357
+        ],
+        [
+          335.9134826660156,
+          257.05852872133255
+        ],
+        [
+          45.305257081985474,
+          257.05852872133255
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.16185408830643,
+          411.42932716012
+        ],
+        [
+          125.9113998413086,
+          411.42932716012
+        ],
+        [
+          125.9113998413086,
+          437.3020393252373
+        ],
+        [
+          45.16185408830643,
+          437.3020393252373
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_958-964_uninstall_dev_work"
+}

@@ -1,0 +1,1110 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Use the Office dialog API in Office Add-ins",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.42000079154968,
+          22.576727041974664
+        ],
+        [
+          540.2583618164062,
+          22.576727041974664
+        ],
+        [
+          540.2583618164062,
+          55.564903289079666
+        ],
+        [
+          45.42000079154968,
+          55.564903289079666
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.75,
+          291.00350135564804
+        ],
+        [
+          93.79355084896088,
+          289.35701698064804
+        ],
+        [
+          93.43069458007812,
+          306.3408590555191
+        ],
+        [
+          58.75,
+          307.9873434305191
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.20991459488868,
+          462.01523315906525
+        ],
+        [
+          103.18741607666016,
+          462.01523315906525
+        ],
+        [
+          103.18741607666016,
+          477.19215309619904
+        ],
+        [
+          58.20991459488868,
+          477.19215309619904
+        ]
+      ]
+    },
+    {
+      "title": "Open a dialog box from a host page",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.814605474472046,
+          606.9085212349892
+        ],
+        [
+          400.4246520996094,
+          606.9085212349892
+        ],
+        [
+          400.4246520996094,
+          632.5787642598152
+        ],
+        [
+          45.814605474472046,
+          632.5787642598152
+        ]
+      ]
+    },
+    {
+      "title": "JavaScript",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.84723299741744,
+          122.5061905682087
+        ],
+        [
+          101.71073150634766,
+          122.5061905682087
+        ],
+        [
+          101.71073150634766,
+          135.33251890540123
+        ],
+        [
+          57.84723299741744,
+          135.33251890540123
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.43531018495559,
+          337.7563617825508
+        ],
+        [
+          132.15966433286667,
+          336.1098774075508
+        ],
+        [
+          130.99560183286667,
+          351.6768625974655
+        ],
+        [
+          56.27124768495559,
+          353.3233469724655
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.70135897397994,
+          171.43869070708752
+        ],
+        [
+          103.18741607666016,
+          171.43869070708752
+        ],
+        [
+          103.18741607666016,
+          186.03799952566624
+        ],
+        [
+          56.70135897397994,
+          186.03799952566624
+        ]
+      ]
+    },
+    {
+      "title": "Take advantage of a performance option in Office on the web",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.17170321941376,
+          296.2243612110615
+        ],
+        [
+          546.3159790039062,
+          296.2243612110615
+        ],
+        [
+          546.3159790039062,
+          316.5213712155819
+        ],
+        [
+          45.17170321941376,
+          316.5213712155819
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.75,
+          582.1438747644424
+        ],
+        [
+          103.18741607666016,
+          580.4973903894424
+        ],
+        [
+          103.18741607666016,
+          595.2289234399796
+        ],
+        [
+          58.75,
+          596.8754078149796
+        ]
+      ]
+    },
+    {
+      "title": "Send information from the dialog box to the host\npage",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.11436688899994,
+          708.4352257847786
+        ],
+        [
+          534.9162039756775,
+          706.7887414097786
+        ],
+        [
+          534.9162039756775,
+          760.8646586537361
+        ],
+        [
+          45.11436688899994,
+          762.5111430287361
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.75,
+          94.48153091222048
+        ],
+        [
+          103.18741607666016,
+          94.48153091222048
+        ],
+        [
+          103.18741607666016,
+          109.20437756180763
+        ],
+        [
+          58.75,
+          109.20437756180763
+        ]
+      ]
+    },
+    {
+      "title": "Conditional messaging",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.0,
+          683.6001836657524
+        ],
+        [
+          230.925048828125,
+          681.9536992907524
+        ],
+        [
+          230.925048828125,
+          702.8357318043709
+        ],
+        [
+          45.1631418466568,
+          704.4822161793709
+        ]
+      ]
+    },
+    {
+      "title": "Cross-domain messaging to the host runtime",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          45.43529403209686,
+          91.82416427135468
+        ],
+        [
+          414.40728759765625,
+          91.82416427135468
+        ],
+        [
+          414.40728759765625,
+          112.93968071043491
+        ],
+        [
+          45.43529403209686,
+          112.93968071043491
+        ]
+      ]
+    },
+    {
+      "title": "Pass information to the dialog box",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          45.62719666957855,
+          463.9788748025894
+        ],
+        [
+          388.0195617675781,
+          463.9788748025894
+        ],
+        [
+          388.0195617675781,
+          490.08154106140137
+        ],
+        [
+          45.62719666957855,
+          490.08154106140137
+        ]
+      ]
+    },
+    {
+      "title": "Use messageChild() from the host page",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          45.55962932109833,
+          547.0090599060059
+        ],
+        [
+          366.3942565917969,
+          545.3625755310059
+        ],
+        [
+          366.3942565917969,
+          567.2804943323135
+        ],
+        [
+          45.55962932109833,
+          568.9269787073135
+        ]
+      ]
+    },
+    {
+      "title": "Handle DialogParentMessageReceived in the dialog box",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          45.31039035320282,
+          563.98305362463
+        ],
+        [
+          500.4214782714844,
+          562.33656924963
+        ],
+        [
+          500.4214782714844,
+          584.3856319785118
+        ],
+        [
+          45.31039035320282,
+          586.0321163535118
+        ]
+      ]
+    },
+    {
+      "title": "Conditional messaging from parent page to dialog box",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          45.256499886512756,
+          629.9545290470123
+        ],
+        [
+          492.6251220703125,
+          628.3080446720123
+        ],
+        [
+          492.6251220703125,
+          649.8443899154663
+        ],
+        [
+          45.256499886512756,
+          651.4908742904663
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          57.69382101297378,
+          166.883599832654
+        ],
+        [
+          130.7212371826172,
+          166.883599832654
+        ],
+        [
+          130.7212371826172,
+          182.51158453524113
+        ],
+        [
+          57.69382101297378,
+          182.51158453524113
+        ]
+      ]
+    },
+    {
+      "title": "Cross-domain messaging to the dialog runtime",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          45.810537934303284,
+          311.77750343084335
+        ],
+        [
+          429.9997863769531,
+          311.77750343084335
+        ],
+        [
+          429.9997863769531,
+          332.2360063791275
+        ],
+        [
+          45.810537934303284,
+          332.2360063791275
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          58.75,
+          511.67491632699966
+        ],
+        [
+          103.18741607666016,
+          510.02843195199966
+        ],
+        [
+          103.18741607666016,
+          524.7607689499855
+        ],
+        [
+          58.75,
+          526.4072533249855
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          58.49474009871482,
+          190.37555980682373
+        ],
+        [
+          103.18741607666016,
+          190.37555980682373
+        ],
+        [
+          103.18741607666016,
+          204.54345032572746
+        ],
+        [
+          58.49474009871482,
+          204.54345032572746
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          58.75,
+          669.0447653532028
+        ],
+        [
+          93.43069458007812,
+          669.0447653532028
+        ],
+        [
+          93.43069458007812,
+          684.5007555484772
+        ],
+        [
+          58.75,
+          684.5007555484772
+        ]
+      ]
+    },
+    {
+      "title": "Close the dialog box",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          45.52687585353851,
+          293.5522911250591
+        ],
+        [
+          250.22848510742188,
+          293.5522911250591
+        ],
+        [
+          250.22848510742188,
+          318.772775799036
+        ],
+        [
+          44.36281335353851,
+          318.772775799036
+        ]
+      ]
+    },
+    {
+      "title": "Code samples",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          45.16712501645088,
+          28.786399863660336
+        ],
+        [
+          185.2482147216797,
+          28.786399863660336
+        ],
+        [
+          185.2482147216797,
+          56.13153550028801
+        ],
+        [
+          45.16712501645088,
+          56.13153550028801
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          45.51627627015114,
+          413.52217823266983
+        ],
+        [
+          127.03943943977355,
+          413.52217823266983
+        ],
+        [
+          125.9113998413086,
+          441.24761241674423
+        ],
+        [
+          44.35221377015114,
+          441.24761241674423
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          265
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_688-703_office_dialog"
+}

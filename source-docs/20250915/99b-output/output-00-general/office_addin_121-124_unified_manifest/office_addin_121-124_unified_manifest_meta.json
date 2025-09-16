@@ -1,0 +1,339 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Manage both a unified manifest and an\nadd-in only manifest version of your\nOffice Add-in",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.15246880054473,
+          40.00705358013511
+        ],
+        [
+          524.63818359375,
+          40.00705358013511
+        ],
+        [
+          524.63818359375,
+          137.0552149862051
+        ],
+        [
+          63.15246880054473,
+          137.0552149862051
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.75,
+          343.3093021810055
+        ],
+        [
+          111.43069458007812,
+          343.3093021810055
+        ],
+        [
+          111.43069458007812,
+          359.78303959965706
+        ],
+        [
+          76.75,
+          359.78303959965706
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.13173192739487,
+          521.42815554142
+        ],
+        [
+          121.18741607666016,
+          519.78167116642
+        ],
+        [
+          121.18741607666016,
+          535.5351219177246
+        ],
+        [
+          74.96766942739487,
+          537.1816062927246
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.12340867519377,
+          488.6585038304329
+        ],
+        [
+          149.68740844726562,
+          488.6585038304329
+        ],
+        [
+          149.68740844726562,
+          503.2441204190254
+        ],
+        [
+          103.95934617519377,
+          503.2441204190254
+        ]
+      ]
+    },
+    {
+      "title": "Maintain both versions for the immediate\nfuture",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.0,
+          510.06079083681107
+        ],
+        [
+          476.1474609375,
+          510.06079083681107
+        ],
+        [
+          476.1474609375,
+          565.1789254546165
+        ],
+        [
+          62.8538509607315,
+          565.1789254546165
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          75.85887813568115,
+          487.1995401978493
+        ],
+        [
+          121.18741607666016,
+          487.1995401978493
+        ],
+        [
+          121.18741607666016,
+          503.01358848810196
+        ],
+        [
+          75.85887813568115,
+          503.01358848810196
+        ]
+      ]
+    },
+    {
+      "title": "6 Collaborate with us on\nGitHub",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          82.75,
+          623.2630231976509
+        ],
+        [
+          232.13055646419522,
+          623.2630231976509
+        ],
+        [
+          230.96649396419522,
+          657.8153781294823
+        ],
+        [
+          81.78379213809967,
+          657.8153781294823
+        ]
+      ]
+    },
+    {
+      "title": "Office Add-ins feedback",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          276.0024230480194,
+          635.6623549461365
+        ],
+        [
+          444.57696533203125,
+          634.0158705711365
+        ],
+        [
+          444.57696533203125,
+          652.6920318603516
+        ],
+        [
+          276.0024230480194,
+          653.8761863708496
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_121-124_unified_manifest"
+}

@@ -1,0 +1,574 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Create Office Add-in projects using the\nYeoman Generator",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.92437160015106,
+          23.1818152628839
+        ],
+        [
+          501.56315612792963,
+          23.1818152628839
+        ],
+        [
+          501.56315612792963,
+          86.17578023672104
+        ],
+        [
+          43.92437160015106,
+          86.17578023672104
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.299529254436486,
+          254.66211211681366
+        ],
+        [
+          103.18741607666016,
+          254.66211211681366
+        ],
+        [
+          103.18741607666016,
+          270.039365708828
+        ],
+        [
+          58.299529254436486,
+          270.039365708828
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.75,
+          692.9790346026421
+        ],
+        [
+          93.43069458007812,
+          691.3325502276421
+        ],
+        [
+          93.43069458007812,
+          709.1405891776085
+        ],
+        [
+          58.75,
+          710.7870735526085
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.0,
+          30.49597841128707
+        ],
+        [
+          175.19017028808594,
+          30.49597841128707
+        ],
+        [
+          175.19017028808594,
+          55.564237520098686
+        ],
+        [
+          46.0,
+          55.564237520098686
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.74420997500419,
+          83.00800745934248
+        ],
+        [
+          103.18741607666016,
+          83.00800745934248
+        ],
+        [
+          103.18741607666016,
+          98.4067917689681
+        ],
+        [
+          58.74420997500419,
+          98.4067917689681
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          87.25,
+          367.30298817157745
+        ],
+        [
+          131.68740844726562,
+          367.30298817157745
+        ],
+        [
+          131.68740844726562,
+          382.2056112885475
+        ],
+        [
+          87.25,
+          382.2056112885475
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          87.25,
+          505.91307520866394
+        ],
+        [
+          131.68740844726562,
+          504.26659083366394
+        ],
+        [
+          131.68740844726562,
+          520.12744140625
+        ],
+        [
+          86.52589565515518,
+          521.4400137662888
+        ]
+      ]
+    },
+    {
+      "title": "Use the tool",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.0,
+          651.1987398862839
+        ],
+        [
+          167.1426501274109,
+          649.5522555112839
+        ],
+        [
+          166.90481567382812,
+          674.9403839111328
+        ],
+        [
+          45.36952066421509,
+          675.9039444923401
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.21403986215591,
+          439.63539630174637
+        ],
+        [
+          103.18741607666016,
+          439.63539630174637
+        ],
+        [
+          103.18741607666016,
+          454.50922805070877
+        ],
+        [
+          58.21403986215591,
+          454.50922805070877
+        ]
+      ]
+    },
+    {
+      "title": "2 Warning",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          58.143470704555504,
+          255.07792881131172
+        ],
+        [
+          122.629638671875,
+          253.43144443631172
+        ],
+        [
+          122.629638671875,
+          270.76073268055916
+        ],
+        [
+          56.979408204555504,
+          272.40721705555916
+        ]
+      ]
+    },
+    {
+      "title": "Manifest-only option",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          46.0,
+          419.13950979709625
+        ],
+        [
+          256.5849609375,
+          417.49302542209625
+        ],
+        [
+          256.5849609375,
+          444.7494567632675
+        ],
+        [
+          44.87807655334473,
+          446.3959411382675
+        ]
+      ]
+    },
+    {
+      "title": "Word, PowerPoint, or Excel with unified manifest\noption",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.73693144321442,
+          649.0894832611084
+        ],
+        [
+          527.0737733840942,
+          647.4429988861084
+        ],
+        [
+          527.0737733840942,
+          701.857980966568
+        ],
+        [
+          45.73693144321442,
+          703.504465341568
+        ]
+      ]
+    },
+    {
+      "title": "Use command line parameters",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.88298988342285,
+          29.521967813372612
+        ],
+        [
+          347.4977111816406,
+          29.521967813372612
+        ],
+        [
+          347.4977111816406,
+          55.812173657119274
+        ],
+        [
+          45.88298988342285,
+          55.812173657119274
+        ]
+      ]
+    },
+    {
+      "title": "Troubleshooting",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.135130882263184,
+          256.0619604885578
+        ],
+        [
+          206.58799743652344,
+          256.0619604885578
+        ],
+        [
+          206.58799743652344,
+          283.44074258208275
+        ],
+        [
+          45.135130882263184,
+          283.44074258208275
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          24
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_755-761_yoman_approach"
+}

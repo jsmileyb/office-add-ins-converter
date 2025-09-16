@@ -1,0 +1,1034 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Build your first PowerPoint task pane add-\nin with Visual Studio",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.685694336891174,
+          23.088770907372236
+        ],
+        [
+          535.1748924255371,
+          23.088770907372236
+        ],
+        [
+          535.1748924255371,
+          86.35385459661484
+        ],
+        [
+          44.685694336891174,
+          86.35385459661484
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.741012305021286,
+          175.9983540326357
+        ],
+        [
+          175.19017028808594,
+          175.9983540326357
+        ],
+        [
+          175.19017028808594,
+          202.4166199117899
+        ],
+        [
+          44.576949805021286,
+          202.4166199117899
+        ]
+      ]
+    },
+    {
+      "title": "Create the add-in project",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.0,
+          398.20848673582077
+        ],
+        [
+          294.8392639160156,
+          398.20848673582077
+        ],
+        [
+          294.8392639160156,
+          423.96485263109207
+        ],
+        [
+          45.39929008483887,
+          423.96485263109207
+        ]
+      ]
+    },
+    {
+      "title": "Explore the Visual Studio solution",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.0,
+          645.879170358181
+        ],
+        [
+          380.0496520996094,
+          644.232685983181
+        ],
+        [
+          380.0496520996094,
+          670.1415004134178
+        ],
+        [
+          45.421812534332275,
+          671.7879847884178
+        ]
+      ]
+    },
+    {
+      "title": "Update the code",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.0,
+          267.21047562360764
+        ],
+        [
+          213.0247802734375,
+          267.21047562360764
+        ],
+        [
+          213.0247802734375,
+          292.7685679793358
+        ],
+        [
+          46.0,
+          292.7685679793358
+        ]
+      ]
+    },
+    {
+      "title": "Update the manifest",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.459122002124786,
+          516.8946958780289
+        ],
+        [
+          249.49904179573056,
+          515.2482115030289
+        ],
+        [
+          249.49904179573056,
+          539.9403686523438
+        ],
+        [
+          45.459122002124786,
+          541.1673767566681
+        ]
+      ]
+    },
+    {
+      "title": "Try it out",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.769860446453094,
+          195.5792855322361
+        ],
+        [
+          135.73430389165878,
+          193.9328011572361
+        ],
+        [
+          135.73430389165878,
+          221.3012575507164
+        ],
+        [
+          44.769860446453094,
+          222.9477419257164
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.75,
+          729.0714011192322
+        ],
+        [
+          103.18741607666016,
+          729.0714011192322
+        ],
+        [
+          103.18741607666016,
+          742.6785131692886
+        ],
+        [
+          58.75,
+          742.6785131692886
+        ]
+      ]
+    },
+    {
+      "title": "Next steps",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.98681664466858,
+          124.06439146399498
+        ],
+        [
+          152.68634033203125,
+          124.06439146399498
+        ],
+        [
+          152.68634033203125,
+          150.78021839261055
+        ],
+        [
+          44.98681664466858,
+          150.78021839261055
+        ]
+      ]
+    },
+    {
+      "title": "Troubleshooting",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          45.37351715564728,
+          246.22011119127274
+        ],
+        [
+          210.929931640625,
+          246.22011119127274
+        ],
+        [
+          210.929931640625,
+          272.4539716243744
+        ],
+        [
+          44.20945465564728,
+          272.4539716243744
+        ]
+      ]
+    },
+    {
+      "title": "Code samples",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.93187376856804,
+          584.0128515958786
+        ],
+        [
+          185.2482147216797,
+          582.3663672208786
+        ],
+        [
+          185.2482147216797,
+          609.2459481954575
+        ],
+        [
+          44.93187376856804,
+          610.8924325704575
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          45.07039216160774,
+          686.9422434568405
+        ],
+        [
+          127.36653006076811,
+          685.2957590818405
+        ],
+        [
+          127.36653006076811,
+          713.1233950853348
+        ],
+        [
+          45.07039216160774,
+          714.7698794603348
+        ]
+      ]
+    },
+    {
+      "title": "Build your first PowerPoint content add-\nin",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          62.76887667179107,
+          39.03468542173505
+        ],
+        [
+          530.2920680046082,
+          39.03468542173505
+        ],
+        [
+          530.2920680046082,
+          106.98349785804749
+        ],
+        [
+          62.76887667179107,
+          106.98349785804749
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          64.0,
+          202.09909835457802
+        ],
+        [
+          193.19017028808594,
+          202.09909835457802
+        ],
+        [
+          193.19017028808594,
+          227.30134347081184
+        ],
+        [
+          63.109564244747155,
+          227.30134347081184
+        ]
+      ]
+    },
+    {
+      "title": "Create the add-in project",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          64.0,
+          440.6783673763275
+        ],
+        [
+          269.33048486709595,
+          440.6783673763275
+        ],
+        [
+          268.9366149902344,
+          462.4493647813797
+        ],
+        [
+          63.4750034213066,
+          462.4493647813797
+        ]
+      ]
+    },
+    {
+      "title": "Explore the Visual Studio solution",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          64.0,
+          702.4736037254333
+        ],
+        [
+          394.7115757465362,
+          702.4736037254333
+        ],
+        [
+          393.8447570800781,
+          729.5696475505829
+        ],
+        [
+          63.25081801414489,
+          729.5696475505829
+        ]
+      ]
+    },
+    {
+      "title": "Update the code",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          63.654818892478936,
+          313.14348551630974
+        ],
+        [
+          231.0247802734375,
+          313.14348551630974
+        ],
+        [
+          231.0247802734375,
+          337.5936377942562
+        ],
+        [
+          63.654818892478936,
+          337.5936377942562
+        ]
+      ]
+    },
+    {
+      "title": "Update the manifest",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          63.32083654403686,
+          353.07208827137947
+        ],
+        [
+          267.0075378417969,
+          353.07208827137947
+        ],
+        [
+          267.0075378417969,
+          378.0810845196247
+        ],
+        [
+          63.32083654403686,
+          378.0810845196247
+        ]
+      ]
+    },
+    {
+      "title": "Try it out",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          63.33791488409042,
+          28.29556482285261
+        ],
+        [
+          155.36512756347656,
+          28.29556482285261
+        ],
+        [
+          155.36512756347656,
+          56.90139055252075
+        ],
+        [
+          63.33791488409042,
+          56.90139055252075
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          76.44408881664276,
+          514.034904062748
+        ],
+        [
+          121.18741607666016,
+          512.388419687748
+        ],
+        [
+          121.18741607666016,
+          528.8765779137611
+        ],
+        [
+          76.44408881664276,
+          530.5230622887611
+        ]
+      ]
+    },
+    {
+      "title": "Next steps",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          64.0,
+          680.74807959795
+        ],
+        [
+          170.6863555908203,
+          679.10159522295
+        ],
+        [
+          170.6863555908203,
+          704.9121270775795
+        ],
+        [
+          63.44992765784263,
+          706.5586114525795
+        ]
+      ]
+    },
+    {
+      "title": "Troubleshooting",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          64.0,
+          781.5970062017441
+        ],
+        [
+          224.58799743652344,
+          779.9505218267441
+        ],
+        [
+          224.58799743652344,
+          808.2014361619949
+        ],
+        [
+          62.88386905193328,
+          809.8479205369949
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          61.90393823385238,
+          348.19054448604584
+        ],
+        [
+          143.94231575727463,
+          348.19054448604584
+        ],
+        [
+          143.94231575727463,
+          371.2177600264549
+        ],
+        [
+          61.90393823385238,
+          371.2177600264549
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Code",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          90
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_799-812_powerpoint_samples_01"
+}

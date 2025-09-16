@@ -1,0 +1,404 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Create Office Add-in projects using\nOffice Add-ins Development Kit for\nVisual Studio Code",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.36444950103759,
+          41.63186591863632
+        ],
+        [
+          474.6525573730469,
+          39.98538154363632
+        ],
+        [
+          474.6525573730469,
+          137.3464575111866
+        ],
+        [
+          62.36444950103759,
+          138.9929418861866
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.91515552997589,
+          235.9116708934307
+        ],
+        [
+          148.72125244140625,
+          234.2651865184307
+        ],
+        [
+          148.72125244140625,
+          250.4545275270939
+        ],
+        [
+          73.75109302997589,
+          252.1010119020939
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.0,
+          418.9230469465256
+        ],
+        [
+          193.19017028808594,
+          417.2765625715256
+        ],
+        [
+          193.19017028808594,
+          443.1902770996094
+        ],
+        [
+          63.75025954842567,
+          444.3876804113388
+        ]
+      ]
+    },
+    {
+      "title": "Install the development kit",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.0,
+          639.2697676420212
+        ],
+        [
+          329.3809814453125,
+          637.6232832670212
+        ],
+        [
+          329.3809814453125,
+          663.84352684021
+        ],
+        [
+          63.3229768872261,
+          665.49001121521
+        ]
+      ]
+    },
+    {
+      "title": "Create an add-in project",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.523956000804894,
+          212.93960112333298
+        ],
+        [
+          305.07183599472046,
+          211.29311674833298
+        ],
+        [
+          304.8519592285156,
+          237.72303986549377
+        ],
+        [
+          62.359893500804894,
+          239.36952424049377
+        ]
+      ]
+    },
+    {
+      "title": "Create an add-in from a template",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.51153135299682,
+          352.2797729372978
+        ],
+        [
+          336.7988586425781,
+          350.6332885622978
+        ],
+        [
+          336.7988586425781,
+          371.9722595214844
+        ],
+        [
+          62.34746885299682,
+          373.6145786046982
+        ]
+      ]
+    },
+    {
+      "title": "Create an add-in from a sample",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.0,
+          729.8319354057312
+        ],
+        [
+          320.8340337276459,
+          728.1854510307312
+        ],
+        [
+          319.6699712276459,
+          750.9022926092148
+        ],
+        [
+          63.2028334736824,
+          752.5487769842148
+        ]
+      ]
+    },
+    {
+      "title": "Test your add-in",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.528361022472374,
+          259.1865776181221
+        ],
+        [
+          227.30079650878906,
+          257.5400932431221
+        ],
+        [
+          227.30079650878906,
+          283.0219613313675
+        ],
+        [
+          62.364298522472374,
+          284.6684457063675
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.85508382320404,
+          381.98663610219955
+        ],
+        [
+          121.18741607666016,
+          380.34015172719955
+        ],
+        [
+          121.18741607666016,
+          395.66203343868256
+        ],
+        [
+          73.69102576375008,
+          397.30851781368256
+        ]
+      ]
+    },
+    {
+      "title": "Stop testing your Office Add-in",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.05191707611083,
+          722.6898170113564
+        ],
+        [
+          372.29907417297363,
+          721.0433326363564
+        ],
+        [
+          372.29907417297363,
+          748.8533822894096
+        ],
+        [
+          63.05191707611083,
+          750.4998666644096
+        ]
+      ]
+    },
+    {
+      "title": "Troubleshooting",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.72370952367782,
+          181.27320398390293
+        ],
+        [
+          225.01642870903012,
+          179.62671960890293
+        ],
+        [
+          224.58799743652344,
+          206.9385228306055
+        ],
+        [
+          62.55964702367782,
+          208.5850072056055
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_751-754_vs_code"
+}

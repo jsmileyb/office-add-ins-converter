@@ -1,0 +1,1531 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unit testing in Office Add-ins",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.726580649614334,
+          39.288437120616436
+        ],
+        [
+          404.73297119140625,
+          39.288437120616436
+        ],
+        [
+          404.73297119140625,
+          71.85671344399452
+        ],
+        [
+          62.726580649614334,
+          71.85671344399452
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.43677140772343,
+          779.5384266376495
+        ],
+        [
+          190.51908642053604,
+          777.8938953876495
+        ],
+        [
+          190.51908642053604,
+          805.2955560684204
+        ],
+        [
+          63.43677140772343,
+          806.9400873184204
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          76.75,
+          112.94975674152374
+        ],
+        [
+          111.43069458007812,
+          112.94975674152374
+        ],
+        [
+          111.43069458007812,
+          128.90579509735107
+        ],
+        [
+          76.75,
+          128.90579509735107
+        ]
+      ]
+    },
+    {
+      "title": "Install the tool",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.9700019210577,
+          238.12722665071487
+        ],
+        [
+          207.54600524902344,
+          238.12722665071487
+        ],
+        [
+          207.54600524902344,
+          262.74711614847183
+        ],
+        [
+          62.9700019210577,
+          262.74711614847183
+        ]
+      ]
+    },
+    {
+      "title": "Basic usage",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.0,
+          419.1436791419983
+        ],
+        [
+          181.07260131835938,
+          417.4991478919983
+        ],
+        [
+          181.07260131835938,
+          442.76996421813965
+        ],
+        [
+          63.47190368920565,
+          444.41449546813965
+        ]
+      ]
+    },
+    {
+      "title": "JavaScript",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          105.25000762939453,
+          103.03942087292671
+        ],
+        [
+          169.55669805407524,
+          103.03942087292671
+        ],
+        [
+          169.55669805407524,
+          117.33210781216621
+        ],
+        [
+          105.25000762939453,
+          117.33210781216621
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          105.25000762939453,
+          620.5008924007416
+        ],
+        [
+          149.68740844726562,
+          618.8563611507416
+        ],
+        [
+          149.68740844726562,
+          633.3374176025391
+        ],
+        [
+          105.25000762939453,
+          634.9233632087708
+        ]
+      ]
+    },
+    {
+      "title": "Examples",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.0,
+          548.2249283790588
+        ],
+        [
+          157.73659378290176,
+          546.5803971290588
+        ],
+        [
+          156.57448440790176,
+          572.8830604553223
+        ],
+        [
+          63.38264774531126,
+          574.5275917053223
+        ]
+      ]
+    },
+    {
+      "title": "Mocking the Office Common APIs",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.49355936050415,
+          151.12925004959106
+        ],
+        [
+          340.8965759277344,
+          151.12925004959106
+        ],
+        [
+          340.8965759277344,
+          171.86568599939346
+        ],
+        [
+          63.49355936050415,
+          171.86568599939346
+        ]
+      ]
+    },
+    {
+      "title": "Mocking the Outlook APIs",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.290966898202896,
+          524.3622131347656
+        ],
+        [
+          279.0225830078125,
+          522.729524731636
+        ],
+        [
+          279.0225830078125,
+          543.442146897316
+        ],
+        [
+          63.290966898202896,
+          545.086678147316
+        ]
+      ]
+    },
+    {
+      "title": "Mocking the Office application-specific APIs",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          63.42099845409393,
+          93.66078607738018
+        ],
+        [
+          423.74041748046875,
+          93.66078607738018
+        ],
+        [
+          423.74041748046875,
+          114.6822509765625
+        ],
+        [
+          63.42099845409393,
+          114.6822509765625
+        ]
+      ]
+    },
+    {
+      "title": "Mocking a ClientRequestContext object",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          63.2265717536211,
+          513.1322937011719
+        ],
+        [
+          339.8759949207306,
+          513.1322937011719
+        ],
+        [
+          339.8759949207306,
+          532.4511194229126
+        ],
+        [
+          63.2265717536211,
+          532.4511194229126
+        ]
+      ]
+    },
+    {
+      "title": "Mocking a host object",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          63.05247522890568,
+          666.0880534648895
+        ],
+        [
+          220.21508067846298,
+          666.0880534648895
+        ],
+        [
+          220.21508067846298,
+          685.3547849655151
+        ],
+        [
+          63.05247522890568,
+          685.3547849655151
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          76.75,
+          682.4007716178894
+        ],
+        [
+          121.18741607666016,
+          680.7562403678894
+        ],
+        [
+          121.18741607666016,
+          695.2093253135681
+        ],
+        [
+          76.75,
+          696.8538565635681
+        ]
+      ]
+    },
+    {
+      "title": "Usability testing for Office Add-ins",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          62.572711110115044,
+          39.05636373907328
+        ],
+        [
+          467.6122741699219,
+          39.05636373907328
+        ],
+        [
+          467.6122741699219,
+          72.35522641986609
+        ],
+        [
+          62.572711110115044,
+          72.35522641986609
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          76.75,
+          447.1940599679947
+        ],
+        [
+          121.18741607666016,
+          447.1940599679947
+        ],
+        [
+          121.18741607666016,
+          463.463343501091
+        ],
+        [
+          76.04709511995316,
+          463.463343501091
+        ]
+      ]
+    },
+    {
+      "title": "1. Sign up for a testing service",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          64.0,
+          572.3641555309296
+        ],
+        [
+          361.5258483886719,
+          572.3641555309296
+        ],
+        [
+          361.5258483886719,
+          600.5113606452942
+        ],
+        [
+          63.48479038476943,
+          600.5113606452942
+        ]
+      ]
+    },
+    {
+      "title": "2. Develop your research questions",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          63.72092974185943,
+          676.0412185192108
+        ],
+        [
+          407.3517498970031,
+          674.3947341442108
+        ],
+        [
+          407.3517498970031,
+          701.505851984024
+        ],
+        [
+          63.72092974185943,
+          703.152336359024
+        ]
+      ]
+    },
+    {
+      "title": "Specific question examples",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.95128542184829,
+          28.62229409068823
+        ],
+        [
+          284.91326904296875,
+          28.62229409068823
+        ],
+        [
+          284.91326904296875,
+          51.22439729422331
+        ],
+        [
+          62.95128542184829,
+          51.22439729422331
+        ]
+      ]
+    },
+    {
+      "title": "Broad question examples",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.901622354984276,
+          145.82800260186195
+        ],
+        [
+          270.46929931640625,
+          145.82800260186195
+        ],
+        [
+          270.46929931640625,
+          168.36297619342804
+        ],
+        [
+          62.901622354984276,
+          168.36297619342804
+        ]
+      ]
+    },
+    {
+      "title": "User experience aspects",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          63.71141809225082,
+          283.2320930957794
+        ],
+        [
+          259.8800048828125,
+          281.5856087207794
+        ],
+        [
+          259.8800048828125,
+          303.32002651691437
+        ],
+        [
+          62.54735559225082,
+          304.96651089191437
+        ]
+      ]
+    },
+    {
+      "title": "3. Identify participants to target",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          64.0,
+          578.4653127193451
+        ],
+        [
+          379.1568908691406,
+          576.8188283443451
+        ],
+        [
+          379.1568908691406,
+          604.7288689613342
+        ],
+        [
+          63.194653987884514,
+          606.3753533363342
+        ]
+      ]
+    },
+    {
+      "title": "4. Create the participant screener",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          63.36430060863494,
+          739.1273265480995
+        ],
+        [
+          391.31505537033075,
+          737.4808421730995
+        ],
+        [
+          391.31505537033075,
+          765.0607618689537
+        ],
+        [
+          63.36430060863494,
+          766.7072462439537
+        ]
+      ]
+    },
+    {
+      "title": "Which of the following source code repositories are you familiar with?",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          63.71620500087737,
+          149.1002194583416
+        ],
+        [
+          446.20745849609375,
+          149.1002194583416
+        ],
+        [
+          446.20745849609375,
+          165.8763667345047
+        ],
+        [
+          62.55214250087737,
+          165.8763667345047
+        ]
+      ]
+    },
+    {
+      "title": "5. Create tasks and questions for participants",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          64.0,
+          568.0327881574631
+        ],
+        [
+          507.9040427207946,
+          566.3863037824631
+        ],
+        [
+          506.7399802207946,
+          593.646754860878
+        ],
+        [
+          63.230622410774224,
+          595.293239235878
+        ]
+      ]
+    },
+    {
+      "title": "6. Create a prototype to match the tasks and\nquestions",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          63.6555471420288,
+          173.35639429092407
+        ],
+        [
+          505.3756668567657,
+          173.35639429092407
+        ],
+        [
+          504.92559814453125,
+          227.30790066719055
+        ],
+        [
+          62.4914846420288,
+          227.30790066719055
+        ]
+      ]
+    },
+    {
+      "title": "7. Run a pilot test",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          63.209307789802544,
+          737.0539460778236
+        ],
+        [
+          238.97549831867215,
+          735.4074617028236
+        ],
+        [
+          238.97549831867215,
+          762.4481336474419
+        ],
+        [
+          63.209307789802544,
+          764.0946180224419
+        ]
+      ]
+    },
+    {
+      "title": "8. Run the test",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          63.06394207477569,
+          111.0773238837719
+        ],
+        [
+          208.6349334716797,
+          111.0773238837719
+        ],
+        [
+          208.6349334716797,
+          137.6095995604992
+        ],
+        [
+          63.06394207477569,
+          137.6095995604992
+        ]
+      ]
+    },
+    {
+      "title": "9. Analyze results",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          63.91928005218505,
+          231.92745807766914
+        ],
+        [
+          236.98117065429688,
+          231.92745807766914
+        ],
+        [
+          236.98117065429688,
+          259.34407594799995
+        ],
+        [
+          62.75521755218505,
+          259.34407594799995
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          63.5057808458805,
+          513.6989042758942
+        ],
+        [
+          144.5868787765503,
+          512.0524199008942
+        ],
+        [
+          143.91139221191406,
+          538.8339192867279
+        ],
+        [
+          62.3417183458805,
+          540.4804036617279
+        ]
+      ]
+    },
+    {
+      "title": "Validate an Office Add-in's manifest",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          44.14581274986267,
+          23.337806191295385
+        ],
+        [
+          460.7967224121094,
+          23.337806191295385
+        ],
+        [
+          460.7967224121094,
+          54.03909896314144
+        ],
+        [
+          44.14581274986267,
+          54.03909896314144
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          58.75,
+          210.80959260463715
+        ],
+        [
+          103.18741607666016,
+          209.16309566795826
+        ],
+        [
+          103.18741607666016,
+          224.02055954933167
+        ],
+        [
+          58.75,
+          225.66704392433167
+        ]
+      ]
+    },
+    {
+      "title": "Validate your manifest with the validate command",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          44.758394956588745,
+          315.49789586663246
+        ],
+        [
+          543.1112670898438,
+          313.85141149163246
+        ],
+        [
+          543.1112670898438,
+          340.04105481505394
+        ],
+        [
+          44.758394956588745,
+          341.68753919005394
+        ]
+      ]
+    },
+    {
+      "title": "Microsoft 365 and Copilot store validation",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          46.0,
+          513.0077607035637
+        ],
+        [
+          390.5747375488281,
+          511.3612763285637
+        ],
+        [
+          390.5747375488281,
+          533.0624307990074
+        ],
+        [
+          45.868247270584106,
+          534.7089151740074
+        ]
+      ]
+    },
+    {
+      "title": "Validate your manifest with office-addin-manifest",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          45.48069417476654,
+          29.115528412163258
+        ],
+        [
+          535.144287109375,
+          29.115528412163258
+        ],
+        [
+          535.144287109375,
+          55.1779847368598
+        ],
+        [
+          45.48069417476654,
+          55.1779847368598
+        ]
+      ]
+    },
+    {
+      "title": "Validate the manifest in the UI of Agents Toolkit",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          44.95496904850006,
+          604.17504966259
+        ],
+        [
+          518.2395024299622,
+          602.52856528759
+        ],
+        [
+          518.2395024299622,
+          629.4854257106781
+        ],
+        [
+          44.95496904850006,
+          631.1319100856781
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          46.0,
+          706.9828444719315
+        ],
+        [
+          128.083003282547,
+          705.3363600969315
+        ],
+        [
+          126.91894078254698,
+          731.6593079566956
+        ],
+        [
+          44.915115147829056,
+          733.3057923316956
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Code",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Code",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_1035-1053_unit_tests_usability"
+}

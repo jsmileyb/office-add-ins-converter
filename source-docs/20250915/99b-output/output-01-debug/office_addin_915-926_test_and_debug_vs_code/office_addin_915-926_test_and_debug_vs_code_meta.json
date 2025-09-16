@@ -1,0 +1,1183 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Debug Office Add-ins in Visual Studio",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.40264916419982,
+          39.70466570556164
+        ],
+        [
+          505.375732421875,
+          39.70466570556164
+        ],
+        [
+          505.375732421875,
+          71.82384856045246
+        ],
+        [
+          63.40264916419982,
+          71.82384856045246
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.24343621730804,
+          208.28206975758076
+        ],
+        [
+          121.18741607666016,
+          208.28206975758076
+        ],
+        [
+          121.18741607666016,
+          223.68737357854843
+        ],
+        [
+          75.24343621730804,
+          223.68737357854843
+        ]
+      ]
+    },
+    {
+      "title": "Review the build and debug properties",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.0,
+          314.85828030109406
+        ],
+        [
+          449.4378952980041,
+          314.85828030109406
+        ],
+        [
+          449.0682678222656,
+          339.6904081106186
+        ],
+        [
+          62.99593067169189,
+          339.6904081106186
+        ]
+      ]
+    },
+    {
+      "title": "Add-in project properties",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.08700627088546,
+          434.1007708311081
+        ],
+        [
+          272.1399230957031,
+          434.1007708311081
+        ],
+        [
+          272.1399230957031,
+          455.64535653591156
+        ],
+        [
+          63.08700627088546,
+          455.64535653591156
+        ]
+      ]
+    },
+    {
+      "title": "\u30ce Expand table",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          443.0898742675781,
+          605.0045224428177
+        ],
+        [
+          524.3112564086914,
+          603.3580380678177
+        ],
+        [
+          524.3112564086914,
+          618.0952301025391
+        ],
+        [
+          443.0898742675781,
+          618.9181394577026
+        ]
+      ]
+    },
+    {
+      "title": "Property Description",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.75,
+          36.590707160532475
+        ],
+        [
+          228.8935760259628,
+          34.944222785532475
+        ],
+        [
+          228.8935760259628,
+          48.84539794921875
+        ],
+        [
+          70.75,
+          49.71523719280958
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.75,
+          123.59563985466957
+        ],
+        [
+          121.18741607666016,
+          121.94915547966957
+        ],
+        [
+          121.18741607666016,
+          136.98955509066582
+        ],
+        [
+          76.10578137636185,
+          138.63603946566582
+        ]
+      ]
+    },
+    {
+      "title": "Web application project properties",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.0,
+          246.5427202284336
+        ],
+        [
+          348.2490539550781,
+          244.8962358534336
+        ],
+        [
+          348.2490539550781,
+          266.8470662534237
+        ],
+        [
+          63.018968224525445,
+          268.4935506284237
+        ]
+      ]
+    },
+    {
+      "title": "Debug an add-in project on Windows desktop",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.0,
+          742.1148455142975
+        ],
+        [
+          519.6517381668091,
+          740.4683611392975
+        ],
+        [
+          519.6517381668091,
+          766.3607951402664
+        ],
+        [
+          64.0,
+          768.0072795152664
+        ]
+      ]
+    },
+    {
+      "title": "Start the add-in project",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.33687579631805,
+          109.77731573581696
+        ],
+        [
+          255.40747249126431,
+          109.77731573581696
+        ],
+        [
+          255.40747249126431,
+          131.70176661014557
+        ],
+        [
+          63.33687579631805,
+          131.70176661014557
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          76.28965550661087,
+          541.9884080886841
+        ],
+        [
+          121.18741607666016,
+          540.3419237136841
+        ],
+        [
+          121.18741607666016,
+          556.8373174667358
+        ],
+        [
+          76.28965550661087,
+          558.4838018417358
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          76.75,
+          745.490369617939
+        ],
+        [
+          111.43069458007812,
+          743.843885242939
+        ],
+        [
+          111.43069458007812,
+          760.5659921765327
+        ],
+        [
+          76.75,
+          762.2124765515327
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          104.12009394168852,
+          332.19776862859726
+        ],
+        [
+          177.2212371826172,
+          332.19776862859726
+        ],
+        [
+          177.2212371826172,
+          347.0194442868233
+        ],
+        [
+          102.95603144168852,
+          347.0194442868233
+        ]
+      ]
+    },
+    {
+      "title": "Debug the add-in",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          64.0,
+          525.2634873390198
+        ],
+        [
+          210.64060974121094,
+          523.6170029640198
+        ],
+        [
+          210.64060974121094,
+          545.2225036621094
+        ],
+        [
+          62.93333673477172,
+          546.3654999732971
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          76.75,
+          721.3967680335045
+        ],
+        [
+          111.43069458007812,
+          719.7502836585045
+        ],
+        [
+          111.43069458007812,
+          736.385162293911
+        ],
+        [
+          76.43691289424896,
+          738.031646668911
+        ]
+      ]
+    },
+    {
+      "title": "Use the built-in Visual Studio debugger to debug on the desktop",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.724553227424614,
+          126.3707282692194
+        ],
+        [
+          515.5596313476562,
+          126.3707282692194
+        ],
+        [
+          515.5596313476562,
+          144.45741038024426
+        ],
+        [
+          63.724553227424614,
+          144.45741038024426
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          76.11742448806763,
+          329.9530719816685
+        ],
+        [
+          148.72125244140625,
+          329.9530719816685
+        ],
+        [
+          148.72125244140625,
+          345.2309375703335
+        ],
+        [
+          76.11742448806763,
+          345.2309375703335
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          76.75,
+          439.5339481830597
+        ],
+        [
+          111.43069458007812,
+          439.5339481830597
+        ],
+        [
+          111.43069458007812,
+          455.0861105918884
+        ],
+        [
+          76.75,
+          455.0861105918884
+        ]
+      ]
+    },
+    {
+      "title": "Use the browser developer tools to debug on the desktop",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.43478095531463,
+          548.5368112921715
+        ],
+        [
+          465.30762529373163,
+          548.5368112921715
+        ],
+        [
+          465.30762529373163,
+          565.5567807555199
+        ],
+        [
+          63.43478095531463,
+          565.5567807555199
+        ]
+      ]
+    },
+    {
+      "title": "Debug an add-in project in Microsoft 365 on\nthe web",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.8501386642456,
+          161.02174262702465
+        ],
+        [
+          507.0528078079223,
+          161.02174262702465
+        ],
+        [
+          507.0528078079223,
+          215.160606443882
+        ],
+        [
+          62.8501386642456,
+          215.160606443882
+        ]
+      ]
+    },
+    {
+      "title": "Start the add-in project on the web",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          63.94366753101348,
+          290.57725846767426
+        ],
+        [
+          352.3729248046875,
+          290.57725846767426
+        ],
+        [
+          352.3729248046875,
+          311.92563074827194
+        ],
+        [
+          62.77960503101348,
+          311.92563074827194
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          76.2625060081482,
+          409.7785215675831
+        ],
+        [
+          121.18741607666016,
+          409.7785215675831
+        ],
+        [
+          121.18741607666016,
+          425.6740951538086
+        ],
+        [
+          76.2625060081482,
+          425.6740951538086
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          105.02377170324324,
+          703.8716683387756
+        ],
+        [
+          177.2212371826172,
+          702.2251839637756
+        ],
+        [
+          177.2212371826172,
+          717.8838694095612
+        ],
+        [
+          103.85970920324324,
+          719.5303537845612
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          76.75,
+          155.74878948926926
+        ],
+        [
+          111.43069458007812,
+          155.74878948926926
+        ],
+        [
+          111.43069458007812,
+          172.4844127893448
+        ],
+        [
+          76.75,
+          172.4844127893448
+        ]
+      ]
+    },
+    {
+      "title": "Debug the add-in on the web",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          63.73860311508178,
+          320.4244858324528
+        ],
+        [
+          306.36114501953125,
+          320.4244858324528
+        ],
+        [
+          306.36114501953125,
+          340.8415854871273
+        ],
+        [
+          63.73860311508178,
+          340.8415854871273
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          76.75,
+          516.4642825126648
+        ],
+        [
+          111.43069458007812,
+          514.8177981376648
+        ],
+        [
+          111.43069458007812,
+          531.4594098329544
+        ],
+        [
+          76.75,
+          533.1058942079544
+        ]
+      ]
+    },
+    {
+      "title": "Use the built-in Visual Studio debugger to debug on the web",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          63.35602343082427,
+          702.2312135696411
+        ],
+        [
+          488.11902999877924,
+          700.5847291946411
+        ],
+        [
+          488.11902999877924,
+          718.7425765991211
+        ],
+        [
+          63.35602343082427,
+          720.2401388883591
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.59281158447266,
+          90.9156534075737
+        ],
+        [
+          111.43069458007812,
+          90.9156534075737
+        ],
+        [
+          111.43069458007812,
+          110.72322271764278
+        ],
+        [
+          76.59281158447266,
+          110.72322271764278
+        ]
+      ]
+    },
+    {
+      "title": "Use the browser developer tools to debug on the web",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          63.88242352008819,
+          443.37807315588
+        ],
+        [
+          438.6241354942321,
+          443.37807315588
+        ],
+        [
+          438.6241354942321,
+          462.34530383348465
+        ],
+        [
+          63.88242352008819,
+          462.34530383348465
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          105.25000762939453,
+          420.24106854200363
+        ],
+        [
+          140.33809328079224,
+          418.59458416700363
+        ],
+        [
+          139.93069458007812,
+          434.75965601205826
+        ],
+        [
+          105.25000762939453,
+          436.40614038705826
+        ]
+      ]
+    },
+    {
+      "title": "Use an existing document to debug the add-in",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          63.474443912506096,
+          637.5655497908592
+        ],
+        [
+          524.575273513794,
+          635.9190654158592
+        ],
+        [
+          524.575273513794,
+          661.6723160147667
+        ],
+        [
+          63.474443912506096,
+          663.3188003897667
+        ]
+      ]
+    },
+    {
+      "title": "Next steps",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          63.699335366487496,
+          255.9752597808838
+        ],
+        [
+          168.28392374515533,
+          255.9752597808838
+        ],
+        [
+          167.5777587890625,
+          281.4246684908867
+        ],
+        [
+          62.535272866487496,
+          281.4246684908867
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "TableCell",
+          37
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_915-926_test_and_debug_vs_code"
+}

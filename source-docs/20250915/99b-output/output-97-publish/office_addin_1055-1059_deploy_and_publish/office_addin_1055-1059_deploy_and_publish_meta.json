@@ -1,0 +1,535 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Deploy and publish Office Add-ins",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.78743612766266,
+          22.7069304138422
+        ],
+        [
+          447.0518493652344,
+          22.7069304138422
+        ],
+        [
+          447.0518493652344,
+          55.09269721806049
+        ],
+        [
+          44.78743612766266,
+          55.09269721806049
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.25316551327705,
+          165.32794895768166
+        ],
+        [
+          103.18741607666016,
+          163.68146458268166
+        ],
+        [
+          103.18741607666016,
+          178.56343629956245
+        ],
+        [
+          57.08910301327705,
+          180.20992067456245
+        ]
+      ]
+    },
+    {
+      "title": "Primary publication methods",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.0,
+          270.23929738998413
+        ],
+        [
+          334.4919738769531,
+          268.59281301498413
+        ],
+        [
+          334.4919738769531,
+          295.46817326545715
+        ],
+        [
+          45.66020768880844,
+          297.11465764045715
+        ]
+      ]
+    },
+    {
+      "title": "Production deployment methods",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.85513877868652,
+          584.4072380661964
+        ],
+        [
+          316.0052490234375,
+          582.7607536911964
+        ],
+        [
+          316.0052490234375,
+          604.8589577078819
+        ],
+        [
+          44.69107627868652,
+          606.5054420828819
+        ]
+      ]
+    },
+    {
+      "title": "AppSource",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.673293977975845,
+          685.4230340123177
+        ],
+        [
+          123.31954073905943,
+          683.7765496373177
+        ],
+        [
+          122.15547823905943,
+          703.4715537428856
+        ],
+        [
+          44.509231477975845,
+          705.1180381178856
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.04559662938117,
+          43.38775623589754
+        ],
+        [
+          103.18741607666016,
+          43.38775623589754
+        ],
+        [
+          103.18741607666016,
+          58.18448439985514
+        ],
+        [
+          58.04559662938117,
+          58.18448439985514
+        ]
+      ]
+    },
+    {
+      "title": "Integrated apps portal in the Microsoft 365 admin center",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.51021492481232,
+          209.1076861023903
+        ],
+        [
+          443.08935546875,
+          209.1076861023903
+        ],
+        [
+          443.08935546875,
+          226.90989643335342
+        ],
+        [
+          45.51021492481232,
+          226.90989643335342
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.31055748462676,
+          540.7864564061165
+        ],
+        [
+          103.18741607666016,
+          540.7864564061165
+        ],
+        [
+          103.18741607666016,
+          555.0893849730492
+        ],
+        [
+          57.31055748462676,
+          555.0893849730492
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.08794403076171,
+          704.685464143753
+        ],
+        [
+          130.7212371826172,
+          704.685464143753
+        ],
+        [
+          130.7212371826172,
+          719.8981597423553
+        ],
+        [
+          57.08794403076171,
+          719.8981597423553
+        ]
+      ]
+    },
+    {
+      "title": "Deploy updates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.96242916584015,
+          106.59846983850002
+        ],
+        [
+          156.93048095703125,
+          106.59846983850002
+        ],
+        [
+          156.93048095703125,
+          125.33180205523968
+        ],
+        [
+          44.96242916584015,
+          125.33180205523968
+        ]
+      ]
+    },
+    {
+      "title": "Additional publication methods for the add-in only\nmanifest",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.58948755264282,
+          529.501546561718
+        ],
+        [
+          551.2341918945312,
+          529.501546561718
+        ],
+        [
+          551.2341918945312,
+          584.4469329714775
+        ],
+        [
+          44.42542505264282,
+          584.4469329714775
+        ]
+      ]
+    },
+    {
+      "title": "SharePoint app catalog deployment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.27296543121338,
+          289.5119024813175
+        ],
+        [
+          338.0221440792084,
+          289.5119024813175
+        ],
+        [
+          338.0221440792084,
+          311.99886533617973
+        ],
+        [
+          45.27296543121338,
+          311.99886533617973
+        ]
+      ]
+    },
+    {
+      "title": "Outlook add-in Exchange server deployment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.38058650493622,
+          515.832781791687
+        ],
+        [
+          409.26352930068964,
+          515.832781791687
+        ],
+        [
+          409.26352930068964,
+          538.005250453949
+        ],
+        [
+          45.38058650493622,
+          538.005250453949
+        ]
+      ]
+    },
+    {
+      "title": "GoDaddy Microsoft 365 SKUs",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.15102803707123,
+          27.87524790689349
+        ],
+        [
+          338.62030029296875,
+          27.87524790689349
+        ],
+        [
+          338.62030029296875,
+          56.07566115260124
+        ],
+        [
+          45.15102803707123,
+          56.07566115260124
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.973006546497345,
+          200.92468187212944
+        ],
+        [
+          126.74333494901656,
+          200.92468187212944
+        ],
+        [
+          125.9113998413086,
+          227.54524102807045
+        ],
+        [
+          43.808944046497345,
+          227.54524102807045
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_1055-1059_deploy_and_publish"
+}

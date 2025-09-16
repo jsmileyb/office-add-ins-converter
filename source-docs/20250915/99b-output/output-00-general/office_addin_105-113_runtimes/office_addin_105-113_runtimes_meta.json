@@ -1,0 +1,706 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Runtimes in Office Add-ins",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.994258999824524,
+          21.885797018185258
+        ],
+        [
+          359.99774169921875,
+          21.885797018185258
+        ],
+        [
+          359.99774169921875,
+          54.0478293299675
+        ],
+        [
+          44.994258999824524,
+          54.0478293299675
+        ]
+      ]
+    },
+    {
+      "title": "Types of runtimes",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.0,
+          181.24598282575607
+        ],
+        [
+          223.4413604736328,
+          179.59949845075607
+        ],
+        [
+          223.4413604736328,
+          208.21816849708557
+        ],
+        [
+          45.04959708452225,
+          209.86465287208557
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          86.87773787975311,
+          397.86243760585785
+        ],
+        [
+          131.68740844726562,
+          397.86243760585785
+        ],
+        [
+          131.68740844726562,
+          413.78954100608826
+        ],
+        [
+          86.87773787975311,
+          413.78954100608826
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          102.25000762939453,
+          43.80074655264616
+        ],
+        [
+          146.68740844726562,
+          43.80074655264616
+        ],
+        [
+          146.68740844726562,
+          58.591068260371685
+        ],
+        [
+          102.25000762939453,
+          58.591068260371685
+        ]
+      ]
+    },
+    {
+      "title": "Share data across runtimes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.0,
+          697.502344429493
+        ],
+        [
+          312.9600830078125,
+          697.502344429493
+        ],
+        [
+          312.9600830078125,
+          721.1687484383583
+        ],
+        [
+          46.0,
+          721.1687484383583
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.75,
+          751.6884527206421
+        ],
+        [
+          101.51900857686995,
+          750.0419683456421
+        ],
+        [
+          101.51900857686995,
+          764.2756569385529
+        ],
+        [
+          58.75,
+          765.9221413135529
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          87.25,
+          439.381298661232
+        ],
+        [
+          131.68740844726562,
+          439.381298661232
+        ],
+        [
+          131.68740844726562,
+          454.21051132678986
+        ],
+        [
+          87.25,
+          454.21051132678986
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          87.25,
+          617.2248251438141
+        ],
+        [
+          131.68740844726562,
+          617.2248251438141
+        ],
+        [
+          131.68740844726562,
+          632.2798465490341
+        ],
+        [
+          87.25,
+          632.2798465490341
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          87.25,
+          104.15346466004848
+        ],
+        [
+          121.93069458007812,
+          104.15346466004848
+        ],
+        [
+          121.93069458007812,
+          121.06025339663029
+        ],
+        [
+          87.25,
+          121.06025339663029
+        ]
+      ]
+    },
+    {
+      "title": "JavaScript-only runtime",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.3585969209671,
+          694.231383740902
+        ],
+        [
+          279.3039335012436,
+          694.231383740902
+        ],
+        [
+          279.3039335012436,
+          721.4938446879387
+        ],
+        [
+          45.3585969209671,
+          721.4938446879387
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          87.25,
+          360.7969931960106
+        ],
+        [
+          132.76653599739075,
+          360.7969931960106
+        ],
+        [
+          132.76653599739075,
+          376.06234735250473
+        ],
+        [
+          87.25,
+          376.06234735250473
+        ]
+      ]
+    },
+    {
+      "title": ") Important",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.60861346125602,
+          519.1787608265877
+        ],
+        [
+          130.7461053133011,
+          517.5322764515877
+        ],
+        [
+          130.7212371826172,
+          533.0138924717903
+        ],
+        [
+          57.44455096125602,
+          534.6603768467903
+        ]
+      ]
+    },
+    {
+      "title": "Browser runtime",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.884171068668365,
+          684.4277470707893
+        ],
+        [
+          208.53070616722104,
+          682.7812626957893
+        ],
+        [
+          208.53070616722104,
+          707.1903839111328
+        ],
+        [
+          45.884171068668365,
+          707.795183122158
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.53671658039092,
+          590.6383835077286
+        ],
+        [
+          103.18741607666016,
+          588.9918991327286
+        ],
+        [
+          103.18741607666016,
+          604.4033707380295
+        ],
+        [
+          58.53671658039092,
+          606.0498551130295
+        ]
+      ]
+    },
+    {
+      "title": "Shared runtime",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          46.0,
+          763.7268120646477
+        ],
+        [
+          172.24645388126373,
+          762.0803276896477
+        ],
+        [
+          171.08239138126373,
+          783.8112282156944
+        ],
+        [
+          45.53344342112541,
+          785.4577125906944
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          56.55014950037002,
+          247.75612816214561
+        ],
+        [
+          103.18741607666016,
+          247.75612816214561
+        ],
+        [
+          103.18741607666016,
+          262.0502635538578
+        ],
+        [
+          56.55014950037002,
+          262.0502635538578
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_105-113_runtimes"
+}

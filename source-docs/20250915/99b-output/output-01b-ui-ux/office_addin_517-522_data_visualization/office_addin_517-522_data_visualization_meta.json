@@ -1,0 +1,562 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Data visualization style guidelines for\nOffice Add-ins",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.584771633148186,
+          40.49033277109265
+        ],
+        [
+          497.6372871398925,
+          40.49033277109265
+        ],
+        [
+          497.6372871398925,
+          104.11669662594795
+        ],
+        [
+          62.584771633148186,
+          104.11669662594795
+        ]
+      ]
+    },
+    {
+      "title": "Data visualization elements",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.68275880813598,
+          289.6929413974285
+        ],
+        [
+          335.527587890625,
+          289.6929413974285
+        ],
+        [
+          335.527587890625,
+          315.64280739426613
+        ],
+        [
+          63.68275880813598,
+          315.64280739426613
+        ]
+      ]
+    },
+    {
+      "title": "Chart titles",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.5684280693531,
+          697.7102150917053
+        ],
+        [
+          152.8294736146927,
+          696.0637307167053
+        ],
+        [
+          152.8294736146927,
+          718.6296311616898
+        ],
+        [
+          63.5684280693531,
+          720.2761155366898
+        ]
+      ]
+    },
+    {
+      "title": "Axis labels",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.43072229623794,
+          247.7146243751049
+        ],
+        [
+          151.18499755859375,
+          247.7146243751049
+        ],
+        [
+          151.18499755859375,
+          270.23439833521843
+        ],
+        [
+          62.26665979623794,
+          270.23439833521843
+        ]
+      ]
+    },
+    {
+      "title": "Data ink",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.98777782917022,
+          465.18956941366196
+        ],
+        [
+          134.2259979248047,
+          465.18956941366196
+        ],
+        [
+          134.2259979248047,
+          487.84943121671677
+        ],
+        [
+          62.98777782917022,
+          487.84943121671677
+        ]
+      ]
+    },
+    {
+      "title": "Color",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.174609363079064,
+          621.3047579526901
+        ],
+        [
+          108.75640588998793,
+          619.6582735776901
+        ],
+        [
+          108.75640588998793,
+          641.9722595214844
+        ],
+        [
+          63.174609363079064,
+          643.3774366378784
+        ]
+      ]
+    },
+    {
+      "title": "Gridlines",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.83056473731994,
+          71.81435821205378
+        ],
+        [
+          137.82870483398438,
+          70.16787383705378
+        ],
+        [
+          137.82870483398438,
+          92.222412109375
+        ],
+        [
+          62.83056473731994,
+          93.73105853050947
+        ]
+      ]
+    },
+    {
+      "title": "Legends",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.598743677139275,
+          627.4476199150085
+        ],
+        [
+          132.02071964740753,
+          625.8011355400085
+        ],
+        [
+          132.02071964740753,
+          649.1725913286209
+        ],
+        [
+          63.598743677139275,
+          650.8190757036209
+        ]
+      ]
+    },
+    {
+      "title": "Data labels and tooltips",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.66572487354278,
+          159.12541902065277
+        ],
+        [
+          257.8004150390625,
+          159.12541902065277
+        ],
+        [
+          257.8004150390625,
+          181.77920097112656
+        ],
+        [
+          62.50166237354278,
+          181.77920097112656
+        ]
+      ]
+    },
+    {
+      "title": "Design principles",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.13515955209731,
+          277.1436985731125
+        ],
+        [
+          235.376953125,
+          277.1436985731125
+        ],
+        [
+          235.376953125,
+          306.1823809146881
+        ],
+        [
+          63.13515955209731,
+          306.1823809146881
+        ]
+      ]
+    },
+    {
+      "title": "Visual design principles",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.284619450569146,
+          377.97415950894356
+        ],
+        [
+          256.1210632324219,
+          377.97415950894356
+        ],
+        [
+          256.1210632324219,
+          400.96781024336815
+        ],
+        [
+          62.120556950569146,
+          400.96781024336815
+        ]
+      ]
+    },
+    {
+      "title": "Interaction design principles",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.317115366458886,
+          591.2373746037483
+        ],
+        [
+          295.79840087890625,
+          591.2373746037483
+        ],
+        [
+          295.79840087890625,
+          614.2187148928642
+        ],
+        [
+          62.153052866458886,
+          614.2187148928642
+        ]
+      ]
+    },
+    {
+      "title": "Motion design principles",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.54188692569732,
+          777.4200469851494
+        ],
+        [
+          265.42626798152924,
+          775.7735626101494
+        ],
+        [
+          265.42626798152924,
+          799.4723255038261
+        ],
+        [
+          63.54188692569732,
+          801.1188098788261
+        ]
+      ]
+    },
+    {
+      "title": "Accessibility in data visualizations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.86944615840911,
+          674.2625852823257
+        ],
+        [
+          395.15104770660395,
+          674.2625852823257
+        ],
+        [
+          393.98698520660395,
+          702.7433280944824
+        ],
+        [
+          61.70538365840911,
+          702.7433280944824
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          61.679166674613946,
+          91.46260774880648
+        ],
+        [
+          144.78499817848206,
+          91.46260774880648
+        ],
+        [
+          144.78499817848206,
+          117.79956816136837
+        ],
+        [
+          61.679166674613946,
+          117.79956816136837
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_517-522_data_visualization"
+}

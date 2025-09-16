@@ -1,0 +1,563 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Resource limits and performance\noptimization for Office Add-ins",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.61278057098389,
+          23.664714463055134
+        ],
+        [
+          430.45965576171875,
+          23.664714463055134
+        ],
+        [
+          430.45965576171875,
+          87.19642292708158
+        ],
+        [
+          44.61278057098389,
+          87.19642292708158
+        ]
+      ]
+    },
+    {
+      "title": "Resource usage limits for add-ins",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.0,
+          253.7620929479599
+        ],
+        [
+          374.75067138671875,
+          253.7620929479599
+        ],
+        [
+          374.75067138671875,
+          278.69747775793076
+        ],
+        [
+          46.0,
+          278.69747775793076
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.75,
+          307.04524263739586
+        ],
+        [
+          103.18741607666016,
+          307.04524263739586
+        ],
+        [
+          103.18741607666016,
+          321.87867602705956
+        ],
+        [
+          58.75,
+          321.87867602705956
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.50144532322883,
+          351.93018141388893
+        ],
+        [
+          103.18741607666016,
+          351.93018141388893
+        ],
+        [
+          103.18741607666016,
+          368.29875245690346
+        ],
+        [
+          57.33738282322883,
+          368.29875245690346
+        ]
+      ]
+    },
+    {
+      "title": "Task pane and content add-ins",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.86554741859436,
+          475.7059054970741
+        ],
+        [
+          295.4618225097656,
+          475.7059054970741
+        ],
+        [
+          295.4618225097656,
+          497.7327591776848
+        ],
+        [
+          44.70148491859436,
+          497.7327591776848
+        ]
+      ]
+    },
+    {
+      "title": "Evaluation response time for regular expressions in Outlook\nadd-ins",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.3533570766449,
+          682.2017673254013
+        ],
+        [
+          532.267329454422,
+          680.5552829504013
+        ],
+        [
+          532.267329454422,
+          725.2222595214844
+        ],
+        [
+          45.3533570766449,
+          726.3189865350723
+        ]
+      ]
+    },
+    {
+      "title": "Excel add-ins",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.957178086042404,
+          400.86766853928566
+        ],
+        [
+          154.56375122070312,
+          400.86766853928566
+        ],
+        [
+          154.56375122070312,
+          422.5341276526451
+        ],
+        [
+          45.957178086042404,
+          422.5341276526451
+        ]
+      ]
+    },
+    {
+      "title": "Verify resource usage issues in the Telemetry Log",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.805251598358154,
+          733.0563676357269
+        ],
+        [
+          529.4700696468353,
+          733.0563676357269
+        ],
+        [
+          529.4700696468353,
+          762.4550174474716
+        ],
+        [
+          44.805251598358154,
+          762.4550174474716
+        ]
+      ]
+    },
+    {
+      "title": "%Users%\\<Current user>\\AppData\\Local\\Microsoft\\Office\\16.0\\Telemetry",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.890307903289795,
+          82.3285211250186
+        ],
+        [
+          431.59329462051386,
+          82.3285211250186
+        ],
+        [
+          431.59329462051386,
+          96.77608486264944
+        ],
+        [
+          45.890307903289795,
+          96.77608486264944
+        ]
+      ]
+    },
+    {
+      "title": "Design and implementation techniques",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.57296872138977,
+          187.28705750405788
+        ],
+        [
+          434.7027587890625,
+          187.28705750405788
+        ],
+        [
+          434.7027587890625,
+          212.9736935198307
+        ],
+        [
+          44.40890622138977,
+          212.9736935198307
+        ]
+      ]
+    },
+    {
+      "title": "Performance improvements with the application-specific APIs",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.65840482711792,
+          737.5723916888237
+        ],
+        [
+          546.6171848773956,
+          737.5723916888237
+        ],
+        [
+          546.6171848773956,
+          761.4510378241539
+        ],
+        [
+          45.65840482711792,
+          761.4510378241539
+        ]
+      ]
+    },
+    {
+      "title": "Untrack unneeded proxy objects",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.458820044994354,
+          154.49306125938892
+        ],
+        [
+          272.9465637207031,
+          152.84657688438892
+        ],
+        [
+          272.9465637207031,
+          171.2423095703125
+        ],
+        [
+          45.458820044994354,
+          172.41614006459713
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.22368869185448,
+          174.66486901044846
+        ],
+        [
+          126.04887795448302,
+          174.66486901044846
+        ],
+        [
+          125.9113998413086,
+          201.13910973072052
+        ],
+        [
+          44.05962619185448,
+          201.13910973072052
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_1028-1034_perform_optimization"
+}

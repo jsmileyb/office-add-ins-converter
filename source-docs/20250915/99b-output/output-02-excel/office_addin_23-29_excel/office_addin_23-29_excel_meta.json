@@ -1,0 +1,490 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Get started developing Excel custom\nfunctions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.56716930866241,
+          41.11575049906969
+        ],
+        [
+          492.9519348144531,
+          41.11575049906969
+        ],
+        [
+          492.9519348144531,
+          105.7782047688961
+        ],
+        [
+          62.56716930866241,
+          105.7782047688961
+        ]
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.79366144537925,
+          223.57512241601944
+        ],
+        [
+          193.19017028808594,
+          223.57512241601944
+        ],
+        [
+          193.19017028808594,
+          248.96413457393646
+        ],
+        [
+          63.79366144537925,
+          248.96413457393646
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.25000762939453,
+          452.92962205410004
+        ],
+        [
+          149.68740844726562,
+          452.92962205410004
+        ],
+        [
+          149.68740844726562,
+          468.69121277332306
+        ],
+        [
+          105.25000762939453,
+          468.69121277332306
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.25000762939453,
+          592.3633532524109
+        ],
+        [
+          149.7371484041214,
+          590.7168688774109
+        ],
+        [
+          149.68740844726562,
+          606.2863161563873
+        ],
+        [
+          105.15982115268706,
+          607.9328005313873
+        ]
+      ]
+    },
+    {
+      "title": "Build your first custom functions project",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.0,
+          736.094635784626
+        ],
+        [
+          462.2200248241424,
+          734.448151409626
+        ],
+        [
+          461.0559623241424,
+          761.3787830471992
+        ],
+        [
+          63.03213000297546,
+          763.0252674221992
+        ]
+      ]
+    },
+    {
+      "title": "7 Note",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          88.75,
+          372.8824085891247
+        ],
+        [
+          133.18740844726562,
+          372.8824085891247
+        ],
+        [
+          133.18740844726562,
+          386.1468882858753
+        ],
+        [
+          88.75,
+          386.1468882858753
+        ]
+      ]
+    },
+    {
+      "title": "Try out a prebuilt custom function",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.0,
+          550.6729499101639
+        ],
+        [
+          401.54415512084955,
+          549.0264655351639
+        ],
+        [
+          400.38009262084955,
+          577.1529690027237
+        ],
+        [
+          63.190142393112176,
+          578.7994533777237
+        ]
+      ]
+    },
+    {
+      "title": "Next steps",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.79688319563865,
+          744.0703471899033
+        ],
+        [
+          169.65335261821747,
+          742.4238628149033
+        ],
+        [
+          169.65335261821747,
+          767.566615819931
+        ],
+        [
+          62.79688319563865,
+          769.213100194931
+        ]
+      ]
+    },
+    {
+      "title": "Troubleshooting",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.0,
+          150.63835935294628
+        ],
+        [
+          228.929931640625,
+          150.63835935294628
+        ],
+        [
+          228.929931640625,
+          176.43303836882114
+        ],
+        [
+          63.14990216493606,
+          176.43303836882114
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.83613970875739,
+          756.0486617088318
+        ],
+        [
+          145.09144914150238,
+          756.0486617088318
+        ],
+        [
+          145.09144914150238,
+          781.7075489759445
+        ],
+        [
+          63.83613970875739,
+          781.7075489759445
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\office_addin_23-29_excel"
+}
